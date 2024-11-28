@@ -1,0 +1,12 @@
+{"userDatabase": [
+    {
+        "borrowedBooks": [],
+        "name": "Alice",
+        "email": "alice@example.com"
+    },
+    {
+        "borrowedBooks": [],
+        "name": "Bob",
+        "email": "bob@example.com"
+    }
+]}

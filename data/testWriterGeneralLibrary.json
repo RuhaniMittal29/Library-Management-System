@@ -1,0 +1,23 @@
+{
+    "unavailableBooks": [{
+        "isAvailable": false,
+        "genre": "Teenage Romance",
+        "title": "Someone Like You",
+        "authors": [
+            "Nikita Singh",
+            "Durjoy Dutta"
+        ],
+        "bookID": 1
+    }],
+    "availableBooks": [],
+    "allBooks": [{
+        "isAvailable": false,
+        "genre": "Teenage Romance",
+        "title": "Someone Like You",
+        "authors": [
+            "Nikita Singh",
+            "Durjoy Dutta"
+        ],
+        "bookID": 1
+    }]
+}

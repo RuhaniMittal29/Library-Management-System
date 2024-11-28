@@ -1,0 +1,14 @@
+{
+    "borrowedBooks": [{
+        "isAvailable": false,
+        "genre": "Teenage Romance",
+        "title": "Someone Like You",
+        "authors": [
+            "Nikita Singh",
+            "Durjoy Dutta"
+        ],
+        "bookID": 1
+    }],
+    "name": "Jake",
+    "email": "jake@gmail.com"
+}

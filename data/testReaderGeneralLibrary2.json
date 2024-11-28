@@ -1,0 +1,31 @@
+{
+  "unavailableBooks": [{
+    "isAvailable": false,
+    "genre": "Teenage Romance",
+    "title": "Someone Like You",
+    "authors": [
+      "Nikita Singh",
+      "Durjoy Dutta"
+    ],
+    "bookID": 1
+  }],
+  "availableBooks": [{
+    "isAvailable": true,
+    "genre": "Fiction",
+    "title": "Hamlet",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "bookID": 14
+  }],
+  "allBooks": [{
+    "isAvailable": false,
+    "genre": "Teenage Romance",
+    "title": "Someone Like You",
+    "authors": [
+      "Nikita Singh",
+      "Durjoy Dutta"
+    ],
+    "bookID": 1
+  }]
+}

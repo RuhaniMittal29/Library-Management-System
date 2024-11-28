@@ -1,0 +1,27 @@
+{"userDatabase": [
+    {
+        "borrowedBooks": [
+            {
+                "isAvailable": false,
+                "genre": "Thriller",
+                "title": "The Adventures of Tom Sawyer",
+                "authors": ["Mark Twain"],
+                "bookID": 5
+            },
+            {
+                "isAvailable": false,
+                "genre": "Tragedy",
+                "title": "Hamlet",
+                "authors": ["William Shakespeare"],
+                "bookID": 2
+            }
+        ],
+        "name": "Ruhani",
+        "email": "ruhani@gmail.com"
+    },
+    {
+        "borrowedBooks": [],
+        "name": "Anu",
+        "email": "anu@gmail.com"
+    }
+]}

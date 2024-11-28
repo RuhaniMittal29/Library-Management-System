@@ -1,0 +1,118 @@
+{
+    "unavailableBooks": [
+        {
+            "isAvailable": false,
+            "genre": "Fiction",
+            "title": "Room on the Roof",
+            "authors": ["Ruskin Bond"],
+            "bookID": 3
+        },
+        {
+            "isAvailable": false,
+            "genre": "Teenage Romance",
+            "title": "Someone Like You",
+            "authors": [
+                "Nikita Singh",
+                "Durjoy Dutta"
+            ],
+            "bookID": 1
+        },
+        {
+            "isAvailable": false,
+            "genre": "Teenage Romance",
+            "title": "Someone Like You",
+            "authors": [
+                "Nikita Singh",
+                "Durjoy Dutta"
+            ],
+            "bookID": 1
+        },
+        {
+            "isAvailable": false,
+            "genre": "Tragedy",
+            "title": "Hamlet",
+            "authors": ["William Shakespeare"],
+            "bookID": 2
+        },
+        {
+            "isAvailable": false,
+            "genre": "Tragedy",
+            "title": "Othello",
+            "authors": ["William Shakespeare"],
+            "bookID": 4
+        },
+        {
+            "isAvailable": false,
+            "genre": "Thriller",
+            "title": "The Adventures of Tom Sawyer",
+            "authors": ["Mark Twain"],
+            "bookID": 5
+        },
+        {
+            "isAvailable": false,
+            "genre": "Tragedy",
+            "title": "Hamlet",
+            "authors": ["William Shakespeare"],
+            "bookID": 2
+        }
+    ],
+    "availableBooks": [
+        {
+            "isAvailable": true,
+            "genre": "Tragedy",
+            "title": "Othello",
+            "authors": ["William Shakespeare"],
+            "bookID": 4
+        },
+        {
+            "isAvailable": true,
+            "genre": "Teenage Romance",
+            "title": "Someone Like You",
+            "authors": [
+                "Nikita Singh",
+                "Durjoy Dutta"
+            ],
+            "bookID": 1
+        }
+    ],
+    "allBooks": [
+        {
+            "isAvailable": true,
+            "genre": "Teenage Romance",
+            "title": "Someone Like You",
+            "authors": [
+                "Nikita Singh",
+                "Durjoy Dutta"
+            ],
+            "bookID": 1
+        },
+        {
+            "isAvailable": true,
+            "genre": "Tragedy",
+            "title": "Hamlet",
+            "authors": ["William Shakespeare"],
+            "bookID": 2
+        },
+        {
+            "isAvailable": false,
+            "genre": "Fiction",
+            "title": "Room on the Roof",
+            "authors": ["Ruskin Bond"],
+            "bookID": 3
+        },
+        {
+            "isAvailable": true,
+            "genre": "Tragedy",
+            "title": "Othello",
+            "authors": ["William Shakespeare"],
+            "bookID": 4
+        },
+        {
+            "isAvailable": true,
+            "genre": "Thriller",
+            "title": "The Adventures of Tom Sawyer",
+            "authors": ["Mark Twain"],
+            "bookID": 5
+        }
+    ]
+}
